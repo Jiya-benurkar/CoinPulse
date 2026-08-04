@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5aa84a23-6b3c-42eb-a414-5a1dadd4115d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/components/CoinsPagination.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Converter.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/LiveDataWrapper" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AGENTS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CLAUDE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,23 +14,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.258145013510093" />
-      <entry key="MS500" value="2.9296606518011226" />
-      <entry key="S2" value="7.008366567895216" />
-      <entry key="S5" value="12.348604096669888" />
-      <entry key="S10" value="17.07499900103598" />
-      <entry key="S30" value="22.766030002460937" />
-      <entry key="S60" value="24.733882437907027" />
-      <entry key="M2" value="25.826514885328272" />
-      <entry key="M5" value="26.520468860807725" />
-      <entry key="M10" value="26.75850723813334" />
-      <entry key="M15" value="26.83861816075179" />
-      <entry key="M30" value="26.91911503178829" />
-      <entry key="H1" value="26.959508868958185" />
-      <entry key="H2" value="26.979742255853314" />
-      <entry key="H4" value="26.989868081156022" />
-      <entry key="D1" value="26.998310923517185" />
-      <entry key="W1" value="26.999758692989705" />
+      <entry key="MS100" value="1.0531565656882704" />
+      <entry key="MS500" value="2.2615045214098703" />
+      <entry key="S2" value="4.70506444742467" />
+      <entry key="S5" value="5.975320343065156" />
+      <entry key="S10" value="7.015861036449738" />
+      <entry key="S30" value="11.584282073859177" />
+      <entry key="S60" value="18.26867237224495" />
+      <entry key="M2" value="26.251870501798397" />
+      <entry key="M5" value="34.35610685799649" />
+      <entry key="M10" value="37.97351974463662" />
+      <entry key="M15" value="39.70388978643311" />
+      <entry key="M30" value="44.23618976278398" />
+      <entry key="H1" value="51.22604706514031" />
+      <entry key="H2" value="58.026349690630056" />
+      <entry key="H4" value="62.85408524065815" />
+      <entry key="D1" value="67.86946537547618" />
+      <entry key="W1" value="68.83567799523658" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -64,23 +52,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.1745266734822464" />
-      <entry key="MS500" value="2.8911962703065694" />
-      <entry key="S2" value="6.91644428343566" />
-      <entry key="S5" value="12.205437699436375" />
-      <entry key="S10" value="16.95727340327974" />
-      <entry key="S30" value="22.710766926562773" />
-      <entry key="S60" value="24.703739722867365" />
-      <entry key="M2" value="25.810770127374187" />
-      <entry key="M5" value="26.514003137896196" />
-      <entry key="M10" value="26.755245873661814" />
-      <entry key="M15" value="26.83643754369187" />
-      <entry key="M30" value="26.918021526142603" />
-      <entry key="H1" value="26.958961314961705" />
-      <entry key="H2" value="26.979468278324347" />
-      <entry key="H4" value="26.989731042229156" />
-      <entry key="D1" value="26.998288076726517" />
-      <entry key="W1" value="26.999755428991755" />
+      <entry key="MS100" value="0.9703275165750446" />
+      <entry key="MS500" value="2.1768719533828143" />
+      <entry key="S2" value="4.653310394617284" />
+      <entry key="S5" value="5.949637763115037" />
+      <entry key="S10" value="7.001670324281519" />
+      <entry key="S30" value="11.577874312487053" />
+      <entry key="S60" value="18.263826361893177" />
+      <entry key="M2" value="26.248346584912717" />
+      <entry key="M5" value="34.354226865111734" />
+      <entry key="M10" value="37.97246624097963" />
+      <entry key="M15" value="39.7031266049822" />
+      <entry key="M30" value="44.23566583406997" />
+      <entry key="H1" value="51.225653952139524" />
+      <entry key="H2" value="58.02608683075652" />
+      <entry key="H4" value="62.85392999296247" />
+      <entry key="D1" value="67.86943535372764" />
+      <entry key="W1" value="68.835673591994" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -151,7 +139,7 @@
       <option name="presentableId" value="Default" />
       <updated>1785858086614</updated>
       <workItem from="1785858087408" duration="3397000" />
-      <workItem from="1785861628441" duration="16786000" />
+      <workItem from="1785861628441" duration="17523000" />
     </task>
     <servers />
   </component>
