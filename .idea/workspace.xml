@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5aa84a23-6b3c-42eb-a414-5a1dadd4115d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +11,65 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0531565656882704" />
+      <entry key="MS500" value="2.2615045214098703" />
+      <entry key="S2" value="4.70506444742467" />
+      <entry key="S5" value="5.975320343065156" />
+      <entry key="S10" value="7.015861036449738" />
+      <entry key="S30" value="11.584282073859177" />
+      <entry key="S60" value="18.26867237224495" />
+      <entry key="M2" value="26.251870501798397" />
+      <entry key="M5" value="34.35610685799649" />
+      <entry key="M10" value="37.97351974463662" />
+      <entry key="M15" value="39.70388978643311" />
+      <entry key="M30" value="44.23618976278398" />
+      <entry key="H1" value="51.22604706514031" />
+      <entry key="H2" value="58.026349690630056" />
+      <entry key="H4" value="62.85408524065815" />
+      <entry key="D1" value="67.86946537547618" />
+      <entry key="W1" value="68.83567799523658" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9703275165750446" />
+      <entry key="MS500" value="2.1768719533828143" />
+      <entry key="S2" value="4.653310394617284" />
+      <entry key="S5" value="5.949637763115037" />
+      <entry key="S10" value="7.001670324281519" />
+      <entry key="S30" value="11.577874312487053" />
+      <entry key="S60" value="18.263826361893177" />
+      <entry key="M2" value="26.248346584912717" />
+      <entry key="M5" value="34.354226865111734" />
+      <entry key="M10" value="37.97246624097963" />
+      <entry key="M15" value="39.7031266049822" />
+      <entry key="M30" value="44.23566583406997" />
+      <entry key="H1" value="51.225653952139524" />
+      <entry key="H2" value="58.02608683075652" />
+      <entry key="H4" value="62.85392999296247" />
+      <entry key="D1" value="67.86943535372764" />
+      <entry key="W1" value="68.835673591994" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5,
@@ -37,12 +95,17 @@
     "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/coinpulse/src/main.ts",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2026.2.0.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\coinpulse\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\coinpulse\components" />
+      <recent name="D:\coinpulse" />
       <recent name="D:\coinpulse\public" />
     </key>
   </component>
@@ -76,11 +139,14 @@
       <option name="presentableId" value="Default" />
       <updated>1785858086614</updated>
       <workItem from="1785858087408" duration="3397000" />
-      <workItem from="1785861628441" duration="4002000" />
+      <workItem from="1785861628441" duration="17523000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="next.config.ts" />
   </component>
 </project>
